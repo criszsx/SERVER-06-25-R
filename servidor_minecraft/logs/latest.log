@@ -106,3 +106,15 @@
 [21:59:38] [Server thread/INFO]: ignacioamajanny joined the game
 [21:59:44] [Server thread/INFO]: Lamamadelmatidx[/127.223.25.77:54693] logged in with entity id 43067 at (2.557830612108719, 67.0, 91.52813390482899)
 [21:59:44] [Server thread/INFO]: Lamamadelmatidx joined the game
+[22:09:02] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=945, y=65, z=10} ji{x=944, y=63, z=9}
+[22:09:16] [Server thread/INFO]: ignacioamajanny lost connection: Disconnected
+[22:09:16] [Server thread/INFO]: ignacioamajanny left the game
+[22:09:23] [Server thread/INFO]: Lamamadelmatidx lost connection: Disconnected
+[22:09:23] [Server thread/INFO]: Lamamadelmatidx left the game
+[22:09:28] [Server thread/INFO]: ignacioamajanny[/127.55.253.218:58567] logged in with entity id 46517 at (974.529514788914, 62.0, 45.00678702662745)
+[22:09:28] [Server thread/INFO]: ignacioamajanny joined the game
+[22:09:31] [Server thread/INFO]: Lamamadelmatidx[/127.223.25.77:38845] logged in with entity id 46546 at (977.6521015150425, 63.0, 44.87969307799377)
+[22:09:31] [Server thread/INFO]: Lamamadelmatidx joined the game
+[22:20:10] [Server thread/INFO]: Villager coj['Villager'/39950, l='ServerLevel[world]', x=998.85, y=58.94, z=2.07] died, message: 'Villager was slain by deiv1d_Xx'
+[22:20:38] [Server thread/INFO]: ignacioamajanny lost connection: Disconnected
+[22:20:38] [Server thread/INFO]: ignacioamajanny left the game
