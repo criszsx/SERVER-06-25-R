@@ -129,3 +129,6 @@
 [22:43:12] [Server thread/WARN]: Oak Boat (vehicle of deiv1d_Xx) moved too quickly! 8.904522797365594,0.0,4.777890473167076
 [22:43:12] [Server thread/WARN]: Oak Boat (vehicle of deiv1d_Xx) moved too quickly! 9.282298072685542,0.0,4.89030607999922
 [22:43:12] [Server thread/WARN]: Oak Boat (vehicle of deiv1d_Xx) moved too quickly! 9.659526489369327,0.0,5.006101072982176
+[22:46:43] [Server thread/INFO]: Lamamadelmatidx[/127.223.25.77:47583] logged in with entity id 60614 at (85.77064569329286, 75.0, -11.430998996434282)
+[22:46:43] [Server thread/INFO]: Lamamadelmatidx joined the game
+[22:49:05] [Server thread/WARN]: UUID of added entity already exists: clp['Enderman'/62867, l='ServerLevel[world]', x=-182.27, y=76.00, z=-495.62]
