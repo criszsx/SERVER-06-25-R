@@ -1,174 +1,68 @@
-[16:43:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:43:34] [ServerMain/INFO]: Loaded 1370 recipes
-[16:43:34] [ServerMain/INFO]: Loaded 1481 advancements
-[16:43:34] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[16:43:34] [Server thread/INFO]: Loading properties
-[16:43:34] [Server thread/INFO]: Default game type: SURVIVAL
-[16:43:34] [Server thread/INFO]: Generating keypair
-[16:43:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:43:34] [Server thread/INFO]: Using epoll channel type
-[16:43:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:43:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:43:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:43:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:43:34] [Server thread/INFO]: Preparing level "world"
-[16:43:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:43:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:43:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:43:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:43:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:43:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:43:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:43:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:43:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:43:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:43:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:43:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:43:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:43:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:43:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:43:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:43:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:43:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:43:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:43:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:43:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:43:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:43:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:43:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:43:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:43:47] [Worker-Main-1/INFO]: Preparing spawn area: 24%
-[16:43:48] [Worker-Main-1/INFO]: Preparing spawn area: 81%
-[16:43:48] [Server thread/INFO]: Time elapsed: 12645 ms
-[16:43:48] [Server thread/INFO]: Done (13.457s)! For help, type "help"
-[16:44:48] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[16:51:16] [Server thread/INFO]: ignacioamajanny[/127.55.253.218:35865] logged in with entity id 3 at (672.1934842910497, 3.0, 273.4479778246353)
-[16:51:16] [Server thread/INFO]: ignacioamajanny joined the game
-[17:01:06] [Server thread/INFO]: ignacioamajanny has made the advancement [Cover Me with Diamonds]
-[17:07:03] [Server thread/INFO]: ignacioamajanny was pricked to death
-[17:12:19] [Server thread/INFO]: Lamamadelmatidx[/127.223.25.77:37277] logged in with entity id 4218 at (-1017.1256607853749, 68.84375002384186, 81.85969285935855)
-[17:12:19] [Server thread/INFO]: Lamamadelmatidx joined the game
-[17:12:20] [Server thread/WARN]: UUID of added entity already exists: cii['Armadillo'/4411, l='ServerLevel[world]', x=-863.50, y=70.00, z=174.38]
-[17:12:20] [Server thread/WARN]: UUID of added entity already exists: cia['Turtle'/4413, l='ServerLevel[world]', x=-1173.01, y=59.51, z=128.98]
-[17:12:20] [Server thread/WARN]: UUID of added entity already exists: cia['Turtle'/4420, l='ServerLevel[world]', x=-982.65, y=54.25, z=-81.62]
-[17:12:20] [Server thread/WARN]: UUID of added entity already exists: cia['Turtle'/4421, l='ServerLevel[world]', x=-980.07, y=60.25, z=-80.01]
-[17:12:20] [Server thread/WARN]: UUID of added entity already exists: cia['Turtle'/4422, l='ServerLevel[world]', x=-1043.73, y=55.00, z=-81.43]
-[17:12:21] [Server thread/WARN]: UUID of added entity already exists: chg['Cow'/4432, l='ServerLevel[world]', x=-840.52, y=76.00, z=-59.81]
-[17:12:21] [Server thread/WARN]: UUID of added entity already exists: chg['Cow'/4433, l='ServerLevel[world]', x=-845.46, y=82.00, z=-42.18]
-[17:16:02] [Server thread/INFO]: Lamamadelmatidx has made the advancement [Cover Me with Diamonds]
-[17:17:49] [Server thread/INFO]: Lamamadelmatidx has made the advancement [Ice Bucket Challenge]
-[17:19:37] [Server thread/INFO]: Villager coj['Villager'/6864, l='ServerLevel[world]', x=-280.13, y=63.00, z=139.24] died, message: 'Villager was slain by Zombie'
-[17:21:02] [Server thread/INFO]: deiv1d_Xx[/127.69.73.170:42385] logged in with entity id 9692 at (120.88006855360616, 69.25220334025373, 947.0081669109832)
-[17:21:02] [Server thread/INFO]: deiv1d_Xx joined the game
-[17:23:03] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=194, y=64, z=565} ji{x=193, y=62, z=563}
-[17:29:24] [Server thread/INFO]: deiv1d_Xx has made the advancement [Cover Me with Diamonds]
-[17:30:48] [Server thread/INFO]: deiv1d_Xx lost connection: Disconnected
-[17:30:48] [Server thread/INFO]: deiv1d_Xx left the game
-[17:40:01] [Server thread/INFO]: ignacioamajanny lost connection: Disconnected
-[17:40:01] [Server thread/INFO]: ignacioamajanny left the game
-[17:41:06] [Server thread/INFO]: ignacioamajanny[/127.55.253.218:44755] logged in with entity id 24860 at (-789.2978475421041, 101.0, -68.30000001192093)
-[17:41:06] [Server thread/INFO]: ignacioamajanny joined the game
-[17:48:00] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! -9.224891350368125,-5.637964789144689E-4,-4.36285061547062
-[17:48:00] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! -9.58528061782954,-5.680873315228041E-4,-4.533294307177584
-[17:48:00] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! -9.945792160340261,-5.709806127782713E-4,-4.7037958280507155
-[17:48:00] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! -10.306413750392494,-5.72588318078715E-4,-4.874349395171976
-[17:48:00] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! -10.667134383229495,-5.730999271378323E-4,-5.044949803915415
-[17:48:00] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! -11.027944154570832,-5.727474858332471E-4,-5.215592370117633
-[17:48:00] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! -11.388834150563525,-5.717759250174481E-4,-5.386272878031718
-[17:48:00] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! -11.749796348740347,-5.704197423739288E-4,-5.556987533485653
-[17:48:00] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! -12.11082352888161,-5.688863698907198E-4,-5.727732921724623
-[17:48:00] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! -12.471909192789099,-5.673459202029107E-4,-5.898505969469397
-[17:48:00] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! -12.833047492084916,-5.659265584867512E-4,-6.069303910768667
-[17:48:00] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! -13.194233163229,-5.647144731923959E-4,-6.2401242562664265
-[17:50:21] [Server thread/INFO]: ignacioamajanny lost connection: Disconnected
-[17:50:21] [Server thread/INFO]: ignacioamajanny left the game
-[17:51:04] [Server thread/WARN]: Lamamadelmatidx moved too quickly! -6.362816651062531,-6.174664180253572,-4.673795444643474
-[17:51:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2691ms or 53 ticks behind
-[17:54:04] [Server thread/INFO]: Villager coj['Villager'/35453, l='ServerLevel[world]', x=-5262.37, y=68.00, z=748.28] died, message: 'Villager suffocated in a wall'
-[18:10:44] [Server thread/INFO]: deiv1d_Xx[/127.69.73.170:35535] logged in with entity id 42074 at (133.47127056729335, 71.0, 313.76249998807907)
-[18:10:44] [Server thread/INFO]: deiv1d_Xx joined the game
-[18:11:07] [Server thread/INFO]: [Not Secure] <deiv1d_Xx> dwd
-[18:12:19] [Server thread/INFO]: Lamamadelmatidx drowned
-[18:13:46] [Server thread/INFO]: ignacioamajanny[/127.55.253.218:38589] logged in with entity id 43700 at (-653.3168075015652, 25.0, -539.3000000119209)
-[18:13:46] [Server thread/INFO]: ignacioamajanny joined the game
-[18:16:17] [Server thread/INFO]: deiv1d_Xx has made the advancement [Ice Bucket Challenge]
-[18:16:59] [Server thread/WARN]: ignacioamajanny moved too quickly! -1.9133143929389007,-0.3590813499803147,-9.845706080770697
-[18:16:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2410ms or 48 ticks behind
-[18:22:25] [Worker-Main-2/ERROR]: Failed to fetch mob spawner entity at (1346, -40, 274)
-[18:23:38] [Server thread/WARN]: Spruce Boat (vehicle of Lamamadelmatidx) moved too quickly! 7.700427176207086,0.0,-6.977074616119353
-[18:23:38] [Server thread/WARN]: Spruce Boat (vehicle of Lamamadelmatidx) moved too quickly! 7.987038108875822,0.0,-7.255673533516301
-[18:23:38] [Server thread/WARN]: Spruce Boat (vehicle of Lamamadelmatidx) moved too quickly! 8.271687931478482,0.0,-7.536196952547243
-[18:23:38] [Server thread/WARN]: Spruce Boat (vehicle of Lamamadelmatidx) moved too quickly! 8.554320521249792,0.0,-7.818676624011687
-[18:23:38] [Server thread/WARN]: Spruce Boat (vehicle of Lamamadelmatidx) moved too quickly! 8.834909557876017,0.0,-8.103116376524895
-[18:23:38] [Server thread/WARN]: Spruce Boat (vehicle of Lamamadelmatidx) moved too quickly! 9.1134531646494,0.0,-8.389497978376085
-[18:23:38] [Server thread/WARN]: Spruce Boat (vehicle of Lamamadelmatidx) moved too quickly! 9.389968951399169,0.0,-8.677786290266567
-[18:23:38] [Server thread/WARN]: Spruce Boat (vehicle of Lamamadelmatidx) moved too quickly! 9.664489452547059,0.0,-8.967933779838859
-[18:23:38] [Server thread/WARN]: Spruce Boat (vehicle of Lamamadelmatidx) moved too quickly! 9.937060884240964,0.0,-9.259882055280514
-[18:23:38] [Server thread/WARN]: Spruce Boat (vehicle of Lamamadelmatidx) moved too quickly! 10.207739038094587,0.0,-9.553565642792364
-[18:23:38] [Server thread/WARN]: Spruce Boat (vehicle of Lamamadelmatidx) moved too quickly! 10.476588489415917,0.0,-9.848912892227645
-[18:23:38] [Server thread/WARN]: Spruce Boat (vehicle of Lamamadelmatidx) moved too quickly! 10.74367888575307,0.0,-10.145849183804103
-[18:23:38] [Server thread/WARN]: Spruce Boat (vehicle of Lamamadelmatidx) moved too quickly! 11.009084543979952,0.0,-10.444297349863973
-[18:23:38] [Server thread/WARN]: Spruce Boat (vehicle of Lamamadelmatidx) moved too quickly! 11.272884080221047,0.0,-10.744178050734263
-[18:23:38] [Server thread/WARN]: Spruce Boat (vehicle of Lamamadelmatidx) moved too quickly! 11.535154054850864,0.0,-11.045414853431794
-[18:23:38] [Server thread/WARN]: Acacia Boat (vehicle of ignacioamajanny) moved too quickly! 10.161198207454504,0.0,-0.5832770086494747
-[18:23:38] [Server thread/WARN]: Spruce Boat (vehicle of Lamamadelmatidx) moved too quickly! 11.795972225356309,0.0,-11.34793162200117
-[18:23:38] [Server thread/WARN]: Acacia Boat (vehicle of ignacioamajanny) moved too quickly! 10.547890590492216,0.0,-0.5815050937876549
-[18:23:38] [Server thread/WARN]: Spruce Boat (vehicle of Lamamadelmatidx) moved too quickly! 12.055417478782147,0.0,-11.65165254369117
-[18:23:38] [Server thread/WARN]: Acacia Boat (vehicle of ignacioamajanny) moved too quickly! 10.935578162138427,0.0,-0.5747438249441075
-[18:23:38] [Server thread/WARN]: Spruce Boat (vehicle of Lamamadelmatidx) moved too quickly! 12.313566747851837,0.0,-11.95650452552377
-[18:23:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
-[18:26:20] [Server thread/WARN]: Spruce Boat (vehicle of Lamamadelmatidx) moved too quickly! 6.0799744713986,0.0,8.423021959115431
-[18:26:20] [Server thread/WARN]: Acacia Boat (vehicle of ignacioamajanny) moved too quickly! 10.283001146788934,0.0,1.554593175669197
-[18:26:20] [Server thread/WARN]: Spruce Boat (vehicle of Lamamadelmatidx) moved too quickly! 6.305265119121941,0.0,8.753385196305544
-[18:26:20] [Server thread/WARN]: Acacia Boat (vehicle of ignacioamajanny) moved too quickly! 10.678501190896327,0.0,1.6143852208872431
-[18:26:20] [Server thread/WARN]: Spruce Boat (vehicle of Lamamadelmatidx) moved too quickly! 6.530265446712292,0.0,9.083958097540972
-[18:26:20] [Server thread/WARN]: Acacia Boat (vehicle of ignacioamajanny) moved too quickly! 11.07400123500372,0.0,1.6741772661052892
-[18:26:20] [Server thread/WARN]: Spruce Boat (vehicle of Lamamadelmatidx) moved too quickly! 6.7549981103557,0.0,9.414723961869413
-[18:26:20] [Server thread/WARN]: Acacia Boat (vehicle of ignacioamajanny) moved too quickly! 11.469501279111114,0.0,1.7339693113233352
-[18:26:20] [Server thread/WARN]: Spruce Boat (vehicle of Lamamadelmatidx) moved too quickly! 6.9794834987560535,0.0,9.745667754709302
-[18:26:20] [Server thread/WARN]: Acacia Boat (vehicle of ignacioamajanny) moved too quickly! 11.865001323218507,0.0,1.7937613565413812
-[18:26:20] [Server thread/WARN]: Spruce Boat (vehicle of Lamamadelmatidx) moved too quickly! 7.203743152457719,0.0,10.076773814071203
-[18:26:20] [Server thread/WARN]: Acacia Boat (vehicle of ignacioamajanny) moved too quickly! 12.260501367325901,0.0,1.8535534017594273
-[18:26:20] [Server thread/WARN]: Spruce Boat (vehicle of Lamamadelmatidx) moved too quickly! 7.4277932672393945,0.0,10.408030175031172
-[18:26:20] [Server thread/WARN]: Acacia Boat (vehicle of ignacioamajanny) moved too quickly! 12.656001411433294,0.0,1.9133454469774733
-[18:26:20] [Server thread/WARN]: Spruce Boat (vehicle of Lamamadelmatidx) moved too quickly! 7.651651606286578,0.0,10.739423934566503
-[18:26:20] [Server thread/WARN]: Acacia Boat (vehicle of ignacioamajanny) moved too quickly! 13.051501455540688,0.0,1.9731374921955194
-[18:26:20] [Server thread/WARN]: Spruce Boat (vehicle of Lamamadelmatidx) moved too quickly! 7.875334158328769,0.0,11.070943483682413
-[18:26:20] [Server thread/WARN]: Acacia Boat (vehicle of ignacioamajanny) moved too quickly! 13.447001499648081,0.0,2.0329295374135654
-[18:30:07] [Server thread/INFO]: Lamamadelmatidx lost connection: Disconnected
-[18:30:07] [Server thread/INFO]: Lamamadelmatidx left the game
-[18:30:31] [Server thread/INFO]: Lamamadelmatidx[/127.223.25.77:48997] logged in with entity id 71634 at (-6058.4506676421615, 62.110764312744145, 1828.9838968140305)
-[18:30:31] [Server thread/INFO]: Lamamadelmatidx joined the game
-[18:30:58] [Server thread/WARN]: Oak Boat (vehicle of deiv1d_Xx) moved too quickly! -10.211998597226057,0.0,-1.6799954847341496
-[18:30:58] [Server thread/WARN]: Oak Boat (vehicle of deiv1d_Xx) moved too quickly! -10.598044175940117,0.0,-1.781298356894979
-[18:30:58] [Server thread/WARN]: Oak Boat (vehicle of deiv1d_Xx) moved too quickly! -10.98347592528512,0.0,-1.8849890743239257
-[18:30:58] [Server thread/WARN]: Oak Boat (vehicle of deiv1d_Xx) moved too quickly! -11.367897978630822,0.0,-1.9921395669577464
-[18:30:58] [Server thread/WARN]: Oak Boat (vehicle of deiv1d_Xx) moved too quickly! -11.750693546468824,0.0,-2.104214763648372
-[18:30:58] [Server thread/WARN]: Oak Boat (vehicle of deiv1d_Xx) moved too quickly! -12.130998669338851,0.0,-2.222946898123439
-[18:30:58] [Server thread/WARN]: Oak Boat (vehicle of deiv1d_Xx) moved too quickly! -12.50802369890539,0.0,-2.349615101498955
-[18:30:58] [Server thread/WARN]: Oak Boat (vehicle of deiv1d_Xx) moved too quickly! -12.881070420232163,0.0,-2.485126430634807
-[18:30:58] [Server thread/WARN]: Oak Boat (vehicle of deiv1d_Xx) moved too quickly! -13.249542328377856,0.0,-2.6300813114069683
-[18:30:58] [Server thread/WARN]: Oak Boat (vehicle of deiv1d_Xx) moved too quickly! -13.612947026524125,0.0,-2.784831279085779
-[18:30:58] [Server thread/WARN]: Oak Boat (vehicle of deiv1d_Xx) moved too quickly! -13.970892701359617,0.0,-2.9495293781903342
-[18:30:58] [Server thread/WARN]: Oak Boat (vehicle of deiv1d_Xx) moved too quickly! -14.323080277549593,0.0,-3.124173756568723
-[18:30:58] [Server thread/WARN]: Oak Boat (vehicle of deiv1d_Xx) moved too quickly! -14.66929777050575,0.0,-3.308639484878995
-[18:30:58] [Server thread/WARN]: Oak Boat (vehicle of deiv1d_Xx) moved too quickly! -15.009412709798198,0.0,-3.502706005753282
-[18:30:58] [Server thread/WARN]: Oak Boat (vehicle of deiv1d_Xx) moved too quickly! -15.343363232200545,0.0,-3.7060806720293726
-[18:30:58] [Server thread/WARN]: Oak Boat (vehicle of deiv1d_Xx) moved too quickly! -15.671145542928457,0.0,-3.918421426862494
-[18:30:58] [Server thread/WARN]: Oak Boat (vehicle of deiv1d_Xx) moved too quickly! -15.992806745337816,0.0,-4.1393508679305455
-[18:30:58] [Server thread/WARN]: Spruce Boat (vehicle of Lamamadelmatidx) moved too quickly! 0.16069243886977347,0.0,-10.070182852901553
-[18:30:58] [Server thread/WARN]: Oak Boat (vehicle of deiv1d_Xx) moved too quickly! -16.30844034715608,0.0,-4.368465690293249
-[18:30:58] [Server thread/WARN]: Oak Boat (vehicle of deiv1d_Xx) moved too quickly! -16.618172761303526,0.0,-4.605352119592737
-[18:30:58] [Server thread/WARN]: Spruce Boat (vehicle of Lamamadelmatidx) moved too quickly! 0.08691712461222778,0.0,-10.448428695291113
-[18:30:58] [Server thread/WARN]: Spruce Boat (vehicle of Lamamadelmatidx) moved too quickly! 0.010949008501484059,0.0,-10.827688178222388
-[18:30:58] [Server thread/WARN]: Oak Boat (vehicle of deiv1d_Xx) moved too quickly! -16.92216211829964,0.0,-4.849589188581945
-[18:30:58] [Server thread/WARN]: Spruce Boat (vehicle of Lamamadelmatidx) moved too quickly! -0.06571050071943318,0.0,-11.208153605976577
-[18:30:58] [Server thread/WARN]: Oak Boat (vehicle of deiv1d_Xx) moved too quickly! -17.220587900966848,0.0,-5.100758633666317
-[18:30:58] [Server thread/WARN]: Oak Boat (vehicle of deiv1d_Xx) moved too quickly! -17.513650154029506,0.0,-5.358446170533853
-[18:30:58] [Server thread/WARN]: Spruce Boat (vehicle of Lamamadelmatidx) moved too quickly! -0.1418295140083501,0.0,-11.589932714535507
-[18:30:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2291ms or 45 ticks behind
-[18:45:33] [Server thread/INFO]: Villager coj['Nitwit'/80152, l='ServerLevel[world]', x=1117.06, y=75.80, z=356.61] died, message: 'Nitwit was slain by Zombie'
-[18:46:13] [Server thread/INFO]: Lamamadelmatidx lost connection: Disconnected
-[18:46:13] [Server thread/INFO]: Lamamadelmatidx left the game
-[18:46:22] [Server thread/INFO]: Lamamadelmatidx[/127.223.25.77:49763] logged in with entity id 88935 at (-4488.5804736584, 61.875, 865.3002912657935)
-[18:46:22] [Server thread/INFO]: Lamamadelmatidx joined the game
+[20:22:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:22:19] [ServerMain/INFO]: Loaded 1370 recipes
+[20:22:19] [ServerMain/INFO]: Loaded 1481 advancements
+[20:22:20] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[20:22:20] [Server thread/INFO]: Loading properties
+[20:22:20] [Server thread/INFO]: Default game type: SURVIVAL
+[20:22:20] [Server thread/INFO]: Generating keypair
+[20:22:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:22:20] [Server thread/INFO]: Using epoll channel type
+[20:22:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:22:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:22:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:22:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:22:20] [Server thread/INFO]: Preparing level "world"
+[20:22:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:22:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:22:36] [Server thread/INFO]: Time elapsed: 14863 ms
+[20:22:36] [Server thread/INFO]: Done (15.444s)! For help, type "help"
+[20:23:20] [Server thread/INFO]: deiv1d_Xx[/127.69.73.170:42931] logged in with entity id 3 at (1143.6210674294582, 109.0, 361.587685271663)
+[20:23:20] [Server thread/INFO]: deiv1d_Xx joined the game
+[20:23:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[20:23:39] [Server thread/INFO]: Lamamadelmatidx[/127.223.25.77:56083] logged in with entity id 305 at (-3227.5232980331343, 111.0, 737.7538597265786)
+[20:23:39] [Server thread/INFO]: Lamamadelmatidx joined the game
+[20:23:53] [Server thread/INFO]: Lamamadelmatidx lost connection: Disconnected
+[20:23:53] [Server thread/INFO]: Lamamadelmatidx left the game
+[20:24:09] [Server thread/INFO]: Lamamadelmatidx[/127.223.25.77:44075] logged in with entity id 666 at (-3189.2380152591068, 112.0, 729.7586127180913)
+[20:24:09] [Server thread/INFO]: Lamamadelmatidx joined the game
+[20:26:43] [Server thread/WARN]: deiv1d_Xx moved too quickly! 10.007060617161414,1.0,0.9512611287776167
+[20:28:10] [Server thread/INFO]: ignacioamajanny[/127.55.253.218:57695] logged in with entity id 3795 at (1100.7252432284702, 66.0, 326.63711153758163)
+[20:28:10] [Server thread/INFO]: ignacioamajanny joined the game
+[20:32:49] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=1011, y=65, z=6} ji{x=1010, y=63, z=6}
+[20:34:57] [Server thread/INFO]: ignacioamajanny lost connection: Disconnected
+[20:34:57] [Server thread/INFO]: ignacioamajanny left the game
+[20:35:00] [Server thread/INFO]: Lamamadelmatidx lost connection: Disconnected
+[20:35:00] [Server thread/INFO]: Lamamadelmatidx left the game
+[20:35:20] [Server thread/INFO]: Lamamadelmatidx[/127.223.25.77:51485] logged in with entity id 7158 at (-2477.300000011921, -42.0, 824.6328304347777)
+[20:35:20] [Server thread/INFO]: Lamamadelmatidx joined the game
+[20:35:42] [Server thread/INFO]: ignacioamajanny[/127.55.253.218:42517] logged in with entity id 7470 at (1008.4731202095161, 64.0, -3.1518732683536563)
+[20:35:42] [Server thread/INFO]: ignacioamajanny joined the game
