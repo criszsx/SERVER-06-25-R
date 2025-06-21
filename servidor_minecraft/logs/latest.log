@@ -45,3 +45,19 @@
 [16:51:16] [Server thread/INFO]: ignacioamajanny[/127.55.253.218:35865] logged in with entity id 3 at (672.1934842910497, 3.0, 273.4479778246353)
 [16:51:16] [Server thread/INFO]: ignacioamajanny joined the game
 [17:01:06] [Server thread/INFO]: ignacioamajanny has made the advancement [Cover Me with Diamonds]
+[17:07:03] [Server thread/INFO]: ignacioamajanny was pricked to death
+[17:12:19] [Server thread/INFO]: Lamamadelmatidx[/127.223.25.77:37277] logged in with entity id 4218 at (-1017.1256607853749, 68.84375002384186, 81.85969285935855)
+[17:12:19] [Server thread/INFO]: Lamamadelmatidx joined the game
+[17:12:20] [Server thread/WARN]: UUID of added entity already exists: cii['Armadillo'/4411, l='ServerLevel[world]', x=-863.50, y=70.00, z=174.38]
+[17:12:20] [Server thread/WARN]: UUID of added entity already exists: cia['Turtle'/4413, l='ServerLevel[world]', x=-1173.01, y=59.51, z=128.98]
+[17:12:20] [Server thread/WARN]: UUID of added entity already exists: cia['Turtle'/4420, l='ServerLevel[world]', x=-982.65, y=54.25, z=-81.62]
+[17:12:20] [Server thread/WARN]: UUID of added entity already exists: cia['Turtle'/4421, l='ServerLevel[world]', x=-980.07, y=60.25, z=-80.01]
+[17:12:20] [Server thread/WARN]: UUID of added entity already exists: cia['Turtle'/4422, l='ServerLevel[world]', x=-1043.73, y=55.00, z=-81.43]
+[17:12:21] [Server thread/WARN]: UUID of added entity already exists: chg['Cow'/4432, l='ServerLevel[world]', x=-840.52, y=76.00, z=-59.81]
+[17:12:21] [Server thread/WARN]: UUID of added entity already exists: chg['Cow'/4433, l='ServerLevel[world]', x=-845.46, y=82.00, z=-42.18]
+[17:16:02] [Server thread/INFO]: Lamamadelmatidx has made the advancement [Cover Me with Diamonds]
+[17:17:49] [Server thread/INFO]: Lamamadelmatidx has made the advancement [Ice Bucket Challenge]
+[17:19:37] [Server thread/INFO]: Villager coj['Villager'/6864, l='ServerLevel[world]', x=-280.13, y=63.00, z=139.24] died, message: 'Villager was slain by Zombie'
+[17:21:02] [Server thread/INFO]: deiv1d_Xx[/127.69.73.170:42385] logged in with entity id 9692 at (120.88006855360616, 69.25220334025373, 947.0081669109832)
+[17:21:02] [Server thread/INFO]: deiv1d_Xx joined the game
+[17:23:03] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=194, y=64, z=565} ji{x=193, y=62, z=563}

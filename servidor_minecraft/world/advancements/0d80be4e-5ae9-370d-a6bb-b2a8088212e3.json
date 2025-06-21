@@ -7,11 +7,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:badlands": "2025-06-21 17:17:45 +0000",
       "minecraft:desert": "2025-06-21 03:09:13 +0000",
       "minecraft:mangrove_swamp": "2025-06-21 03:39:32 +0000",
       "minecraft:river": "2025-06-21 03:10:21 +0000",
       "minecraft:lush_caves": "2025-06-21 03:32:13 +0000",
-      "minecraft:dripstone_caves": "2025-06-21 03:33:24 +0000"
+      "minecraft:dripstone_caves": "2025-06-21 03:33:24 +0000",
+      "minecraft:savanna": "2025-06-21 17:18:27 +0000"
     },
     "done": false
   },
@@ -134,7 +136,8 @@
       "minecraft:skeleton": "2025-06-21 03:29:57 +0000",
       "minecraft:spider": "2025-06-21 04:07:59 +0000",
       "minecraft:zombie": "2025-06-21 03:32:51 +0000",
-      "minecraft:creeper": "2025-06-21 03:16:51 +0000"
+      "minecraft:creeper": "2025-06-21 03:16:51 +0000",
+      "minecraft:husk": "2025-06-21 17:15:09 +0000"
     },
     "done": false
   },
@@ -910,7 +913,8 @@
     "criteria": {
       "bread": "2025-06-21 03:41:15 +0000",
       "rotten_flesh": "2025-06-21 03:37:51 +0000",
-      "glow_berries": "2025-06-21 04:07:22 +0000"
+      "glow_berries": "2025-06-21 04:07:22 +0000",
+      "melon_slice": "2025-06-21 17:20:46 +0000"
     },
     "done": false
   },
@@ -1382,6 +1386,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-06-21 17:20:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-06-21 17:20:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-06-21 16:56:26 +0000"
@@ -1430,6 +1446,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-06-21 17:20:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-06-21 17:04:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-06-21 16:56:26 +0000"
@@ -1463,6 +1491,18 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-06-21 16:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-06-21 17:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-06-21 17:20:38 +0000"
     },
     "done": true
   },
