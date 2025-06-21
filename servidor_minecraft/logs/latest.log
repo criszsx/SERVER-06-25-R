@@ -61,3 +61,27 @@
 [17:21:02] [Server thread/INFO]: deiv1d_Xx[/127.69.73.170:42385] logged in with entity id 9692 at (120.88006855360616, 69.25220334025373, 947.0081669109832)
 [17:21:02] [Server thread/INFO]: deiv1d_Xx joined the game
 [17:23:03] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=194, y=64, z=565} ji{x=193, y=62, z=563}
+[17:29:24] [Server thread/INFO]: deiv1d_Xx has made the advancement [Cover Me with Diamonds]
+[17:30:48] [Server thread/INFO]: deiv1d_Xx lost connection: Disconnected
+[17:30:48] [Server thread/INFO]: deiv1d_Xx left the game
+[17:40:01] [Server thread/INFO]: ignacioamajanny lost connection: Disconnected
+[17:40:01] [Server thread/INFO]: ignacioamajanny left the game
+[17:41:06] [Server thread/INFO]: ignacioamajanny[/127.55.253.218:44755] logged in with entity id 24860 at (-789.2978475421041, 101.0, -68.30000001192093)
+[17:41:06] [Server thread/INFO]: ignacioamajanny joined the game
+[17:48:00] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! -9.224891350368125,-5.637964789144689E-4,-4.36285061547062
+[17:48:00] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! -9.58528061782954,-5.680873315228041E-4,-4.533294307177584
+[17:48:00] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! -9.945792160340261,-5.709806127782713E-4,-4.7037958280507155
+[17:48:00] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! -10.306413750392494,-5.72588318078715E-4,-4.874349395171976
+[17:48:00] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! -10.667134383229495,-5.730999271378323E-4,-5.044949803915415
+[17:48:00] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! -11.027944154570832,-5.727474858332471E-4,-5.215592370117633
+[17:48:00] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! -11.388834150563525,-5.717759250174481E-4,-5.386272878031718
+[17:48:00] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! -11.749796348740347,-5.704197423739288E-4,-5.556987533485653
+[17:48:00] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! -12.11082352888161,-5.688863698907198E-4,-5.727732921724623
+[17:48:00] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! -12.471909192789099,-5.673459202029107E-4,-5.898505969469397
+[17:48:00] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! -12.833047492084916,-5.659265584867512E-4,-6.069303910768667
+[17:48:00] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! -13.194233163229,-5.647144731923959E-4,-6.2401242562664265
+[17:50:21] [Server thread/INFO]: ignacioamajanny lost connection: Disconnected
+[17:50:21] [Server thread/INFO]: ignacioamajanny left the game
+[17:51:04] [Server thread/WARN]: Lamamadelmatidx moved too quickly! -6.362816651062531,-6.174664180253572,-4.673795444643474
+[17:51:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2691ms or 53 ticks behind
+[17:54:04] [Server thread/INFO]: Villager coj['Villager'/35453, l='ServerLevel[world]', x=-5262.37, y=68.00, z=748.28] died, message: 'Villager suffocated in a wall'
