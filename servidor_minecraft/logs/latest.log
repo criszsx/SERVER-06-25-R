@@ -1,131 +1,33 @@
-[19:59:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:59:46] [ServerMain/INFO]: Loaded 1370 recipes
-[19:59:46] [ServerMain/INFO]: Loaded 1481 advancements
-[19:59:46] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[19:59:46] [Server thread/INFO]: Loading properties
-[19:59:46] [Server thread/INFO]: Default game type: SURVIVAL
-[19:59:46] [Server thread/INFO]: Generating keypair
-[19:59:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:59:46] [Server thread/INFO]: Using epoll channel type
-[19:59:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:59:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:59:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:59:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:59:46] [Server thread/INFO]: Preparing level "world"
-[19:59:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:59:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:59:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:59:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:59:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:59:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:59:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:59:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:59:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:59:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:59:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:59:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:59:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:59:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:59:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:59:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:59:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:59:54] [Server thread/INFO]: Time elapsed: 7876 ms
-[19:59:54] [Server thread/INFO]: Done (8.326s)! For help, type "help"
-[20:00:53] [Server thread/INFO]: CrisZSX[/127.150.178.58:39885] logged in with entity id 4 at (72.49299934327173, -12.0, -743.6999999880791)
-[20:00:53] [Server thread/INFO]: CrisZSX joined the game
-[20:01:14] [Server thread/INFO]: Incorrect argument for command
-[20:01:14] [Server thread/INFO]: ...ifficulty medium<--[HERE]
-[20:01:18] [Server thread/INFO]: /advancement (grant|revoke)
-[20:01:18] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
-[20:01:18] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
-[20:01:18] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
-[20:01:18] [Server thread/INFO]: /clear [<targets>]
-[20:01:18] [Server thread/INFO]: /clone (<begin>|from)
-[20:01:18] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
-[20:01:18] [Server thread/INFO]: /data (merge|get|remove|modify)
-[20:01:18] [Server thread/INFO]: /datapack (enable|disable|list)
-[20:01:18] [Server thread/INFO]: /debug (start|stop|function)
-[20:01:18] [Server thread/INFO]: /defaultgamemode <gamemode>
-[20:01:18] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
-[20:01:18] [Server thread/INFO]: /effect (clear|give)
-[20:01:18] [Server thread/INFO]: /me <action>
-[20:01:18] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[20:01:18] [Server thread/INFO]: /experience (add|set|query)
-[20:01:18] [Server thread/INFO]: /xp -> experience
-[20:01:18] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
-[20:01:18] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
-[20:01:18] [Server thread/INFO]: /forceload (add|remove|query)
-[20:01:18] [Server thread/INFO]: /function <name> [<arguments>|with]
-[20:01:18] [Server thread/INFO]: /gamemode <gamemode> [<target>]
-[20:01:18] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disablePlayerMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxCommandForkCount|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersNetherPortalCreativeDelay|playersNetherPortalDefaultDelay|playersSleepingPercentage|projectilesCanBreakBlocks|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnChunkRadius|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
-[20:01:18] [Server thread/INFO]: /give <targets> <item> [<count>]
-[20:01:18] [Server thread/INFO]: /help [<command>]
-[20:01:18] [Server thread/INFO]: /item (replace|modify)
-[20:01:18] [Server thread/INFO]: /kick <targets> [<reason>]
-[20:01:18] [Server thread/INFO]: /kill [<targets>]
-[20:01:18] [Server thread/INFO]: /list [uuids]
-[20:01:18] [Server thread/INFO]: /locate (structure|biome|poi)
-[20:01:18] [Server thread/INFO]: /loot (replace|insert|give|spawn)
-[20:01:18] [Server thread/INFO]: /msg <targets> <message>
-[20:01:18] [Server thread/INFO]: /tell -> msg
-[20:01:18] [Server thread/INFO]: /w -> msg
-[20:01:18] [Server thread/INFO]: /particle <name> [<pos>]
-[20:01:18] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
-[20:01:18] [Server thread/INFO]: /playsound <sound> [master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[20:01:18] [Server thread/INFO]: /random (value|roll|reset)
-[20:01:18] [Server thread/INFO]: /reload
-[20:01:18] [Server thread/INFO]: /recipe (give|take)
-[20:01:18] [Server thread/INFO]: /return (<value>|fail|run)
-[20:01:18] [Server thread/INFO]: /ride <target> (mount|dismount)
-[20:01:18] [Server thread/INFO]: /rotate <target> (<rotation>|facing)
-[20:01:18] [Server thread/INFO]: /say <message>
-[20:01:18] [Server thread/INFO]: /schedule (function|clear)
-[20:01:18] [Server thread/INFO]: /scoreboard (objectives|players)
-[20:01:18] [Server thread/INFO]: /seed
-[20:01:18] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
-[20:01:18] [Server thread/INFO]: /spawnpoint [<targets>]
-[20:01:18] [Server thread/INFO]: /setworldspawn [<pos>]
-[20:01:18] [Server thread/INFO]: /spectate [<target>]
-[20:01:18] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
-[20:01:18] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[20:01:18] [Server thread/INFO]: /summon <entity> [<pos>]
-[20:01:18] [Server thread/INFO]: /tag <targets> (add|remove|list)
-[20:01:18] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
-[20:01:18] [Server thread/INFO]: /teammsg <message>
-[20:01:18] [Server thread/INFO]: /tm -> teammsg
-[20:01:18] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
-[20:01:18] [Server thread/INFO]: /tp -> teleport
-[20:01:18] [Server thread/INFO]: /tellraw <targets> <message>
-[20:01:18] [Server thread/INFO]: /tick (query|rate|step|sprint|unfreeze|freeze)
-[20:01:18] [Server thread/INFO]: /time (set|add|query)
-[20:01:18] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
-[20:01:18] [Server thread/INFO]: /trigger <objective> [add|set]
-[20:01:18] [Server thread/INFO]: /weather (clear|rain|thunder)
-[20:01:18] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
-[20:01:18] [Server thread/INFO]: /jfr (start|stop)
-[20:01:18] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[20:01:18] [Server thread/INFO]: /banlist [ips|players]
-[20:01:18] [Server thread/INFO]: /ban <targets> [<reason>]
-[20:01:18] [Server thread/INFO]: /deop <targets>
-[20:01:18] [Server thread/INFO]: /op <targets>
-[20:01:18] [Server thread/INFO]: /pardon <targets>
-[20:01:18] [Server thread/INFO]: /pardon-ip <target>
-[20:01:18] [Server thread/INFO]: /perf (start|stop)
-[20:01:18] [Server thread/INFO]: /save-all [flush]
-[20:01:18] [Server thread/INFO]: /save-off
-[20:01:18] [Server thread/INFO]: /save-on
-[20:01:18] [Server thread/INFO]: /setidletimeout <minutes>
-[20:01:18] [Server thread/INFO]: /stop
-[20:01:18] [Server thread/INFO]: /transfer <hostname> [<port>]
-[20:01:18] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
-[20:01:56] [Server thread/INFO]: The difficulty has been set to Normal
-[20:06:10] [Server thread/INFO]: deiv1d_Xx[/127.69.73.170:36729] logged in with entity id 1165 at (989.7393741410592, 59.0, -6.447624134467894)
-[20:06:10] [Server thread/INFO]: deiv1d_Xx joined the game
-[20:07:17] [Server thread/INFO]: [Not Secure] <deiv1d_Xx> ola
-[20:07:26] [Server thread/INFO]: [Not Secure] <CrisZSX> ola
-[20:09:18] [Server thread/INFO]: [Not Secure] <deiv1d_Xx> como tai?
-[20:09:42] [Server thread/INFO]: [Not Secure] <CrisZSX> bien
-[20:09:49] [Server thread/INFO]: [Not Secure] <CrisZSX> estoy intentando arreglar una wea pq a rodri no le deja entrar
-[20:09:59] [Server thread/INFO]: [Not Secure] <deiv1d_Xx> q raro
-[20:10:55] [Server thread/INFO]: CrisZSX lost connection: Disconnected
-[20:10:55] [Server thread/INFO]: CrisZSX left the game
+[21:09:45] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:09:48] [ServerMain/INFO]: Loaded 1370 recipes
+[21:09:49] [ServerMain/INFO]: Loaded 1481 advancements
+[21:09:49] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[21:09:49] [Server thread/INFO]: Loading properties
+[21:09:49] [Server thread/INFO]: Default game type: SURVIVAL
+[21:09:49] [Server thread/INFO]: Generating keypair
+[21:09:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:09:49] [Server thread/INFO]: Using epoll channel type
+[21:09:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:09:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:09:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:09:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:09:49] [Server thread/INFO]: Preparing level "world"
+[21:09:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:09:56] [Server thread/INFO]: Time elapsed: 6718 ms
+[21:09:56] [Server thread/INFO]: Done (7.218s)! For help, type "help"
+[21:10:02] [Server thread/INFO]: CrisZSX[/127.150.178.58:42445] logged in with entity id 4 at (116.98688982523811, -31.0, -632.7638992352923)
+[21:10:02] [Server thread/INFO]: CrisZSX joined the game
