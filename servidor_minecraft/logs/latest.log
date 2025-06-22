@@ -1,382 +1,47 @@
-[00:02:09] [Server thread/INFO]: deiv1d_Xx lost connection: Disconnected
-[00:02:09] [Server thread/INFO]: deiv1d_Xx left the game
-[00:02:10] [Server thread/INFO]: Lamamadelmatidx lost connection: Disconnected
-[00:02:10] [Server thread/INFO]: Lamamadelmatidx left the game
-[00:02:24] [Server thread/INFO]: deiv1d_Xx[/127.69.73.170:53337] logged in with entity id 8658 at (-375.4120073316549, 67.0, 326.3419864859138)
-[00:02:24] [Server thread/INFO]: deiv1d_Xx joined the game
-[00:02:27] [Server thread/INFO]: deiv1d_Xx lost connection: Disconnected
-[00:02:27] [Server thread/INFO]: deiv1d_Xx left the game
-[00:02:28] [Server thread/INFO]: Lamamadelmatidx[/127.223.25.77:35789] logged in with entity id 8737 at (-794.8234409239737, 62.0, 109.45693004209987)
-[00:02:28] [Server thread/INFO]: Lamamadelmatidx joined the game
-[00:02:31] [Server thread/INFO]: Lamamadelmatidx lost connection: Disconnected
-[00:02:31] [Server thread/INFO]: Lamamadelmatidx left the game
-[00:02:44] [Server thread/INFO]: Lamamadelmatidx[/127.223.25.77:46751] logged in with entity id 9064 at (-796.4429775225449, 64.0, 109.96155323327251)
-[00:02:44] [Server thread/INFO]: Lamamadelmatidx joined the game
-[00:02:58] [Server thread/INFO]: ignacioamajanny lost connection: Disconnected
-[00:02:58] [Server thread/INFO]: ignacioamajanny left the game
-[00:02:59] [Server thread/INFO]: deiv1d_Xx[/127.69.73.170:58161] logged in with entity id 9487 at (-375.4120073316549, 67.0, 326.3419864859138)
-[00:02:59] [Server thread/INFO]: deiv1d_Xx joined the game
-[00:03:10] [Server thread/INFO]: ignacioamajanny[/127.55.253.218:45045] logged in with entity id 9822 at (-354.55777804932006, 84.0, 429.63832805391525)
-[00:03:10] [Server thread/INFO]: ignacioamajanny joined the game
-[00:04:40] [Server thread/INFO]: Lamamadelmatidx drowned
-[00:07:42] [Server thread/INFO]: [Not Secure] <deiv1d_Xx> w
-[00:07:44] [Server thread/INFO]: Lamamadelmatidx lost connection: Disconnected
-[00:07:44] [Server thread/INFO]: Lamamadelmatidx left the game
-[00:07:45] [Server thread/INFO]: ignacioamajanny lost connection: Disconnected
-[00:07:45] [Server thread/INFO]: ignacioamajanny left the game
-[00:07:50] [Server thread/INFO]: ignacioamajanny[/127.55.253.218:60203] logged in with entity id 13461 at (95.70970271659394, 68.0, 290.5985905056887)
-[00:07:50] [Server thread/INFO]: ignacioamajanny joined the game
-[00:07:52] [Server thread/INFO]: Lamamadelmatidx[/127.223.25.77:52881] logged in with entity id 13467 at (555.8183446077007, 62.352769815596396, 288.15228232759586)
-[00:07:52] [Server thread/INFO]: Lamamadelmatidx joined the game
-[00:15:06] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 1.9168060720136566,0.2274534586630068,-9.84866991592088
-[00:15:06] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 1.8777825742276377,0.2274534586630068,-10.243080039906374
-[00:15:06] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 1.8505657482197648,0.2274534586630068,-10.640213202940913
-[00:15:06] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 1.8296664368807285,0.2274534586630068,-11.038803409879108
-[00:15:06] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 1.8121475016833415,0.2274534586630068,-11.438173251959768
-[00:15:06] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 1.796437338361926,0.2274534586630068,-11.837960261260946
-[00:15:06] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 1.7816950128083135,0.2274534586630068,-12.237970488424423
-[00:15:06] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 1.76600777694037,0.2274534586630068,-12.638044585402156
-[00:15:07] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 2.2755845028352724,1.0,12.025875759871951
-[00:15:07] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 2.2755845028352724,1.0,12.025875759871951
-[00:15:07] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 2.2755845028352724,1.0,12.025875759871951
-[00:15:07] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 2.2755845028352724,1.0,12.025875759871951
-[00:15:07] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 2.2755845028352724,1.0,12.025875759871951
-[00:15:07] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 2.2755845028352724,1.0,12.025875759871951
-[00:15:07] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 2.2755845028352724,1.0,12.025875759871951
-[00:15:07] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 2.2755845028352724,1.0,12.025875759871951
-[00:15:07] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 2.2320306809580757,1.0,11.840697154048371
-[00:15:07] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 2.1892496792467284,1.0,11.556433168311628
-[00:15:07] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 2.146882198197744,1.0,11.219150571332762
-[00:15:07] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 2.1086280680991933,1.0,10.853130683520533
-[00:15:07] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 2.085713433083612,1.0,10.471096797277028
-[00:15:41] [Server thread/INFO]: deiv1d_Xx has made the advancement [Best Friends Forever]
-[00:16:02] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 2.7863790566117643,1.0,-9.688809208119324
-[00:16:02] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 2.763541953433588,1.0,-10.08861976322413
-[00:16:02] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 2.741080569389254,1.0,-10.488468544405123
-[00:16:05] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 0.7607347532320432,-2.0,17.26697936659383
-[00:16:05] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 0.7607347532320432,-2.0,17.26697936659383
-[00:16:05] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 0.7607347532320432,-2.0,17.26697936659383
-[00:16:05] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 0.7512306103487845,-2.0,17.27428149900868
-[00:16:05] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 0.6126279693228582,-2.0,17.02053743536277
-[00:16:05] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 0.4304805750867331,-2.0,16.7284327380641
-[00:16:05] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 0.21078702067225663,-2.0,16.42666926188292
-[00:16:05] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -0.028996735463977075,-2.0,16.119737565696937
-[00:16:06] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -0.2795303579861468,-2.0,15.810040458029619
-[00:16:06] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -0.5365674757148611,-2.0,15.499498390381405
-[00:16:06] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -0.797084484062907,-2.0,15.188504201494084
-[00:16:06] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -1.059463512499832,-2.0,14.877268091546057
-[00:16:06] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -1.3228388707616432,-2.0,14.58408224637759
-[00:17:40] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -6.70534755004789,0.0,-7.751008683215673
-[00:17:40] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -6.908547460227936,0.0,-8.096110820428294
-[00:17:40] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -7.111635381425032,0.0,-8.441288141158111
-[00:17:40] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -7.314663379550154,0.0,-8.786505691089019
-[00:17:40] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -7.517659314034205,0.0,-9.131744766863335
-[00:17:40] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -7.720638091903226,0.0,-9.476995360687283
-[00:17:40] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -7.923607689609582,0.0,-9.82225211758987
-[00:17:40] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -8.126572375193945,0.0,-10.167512172233046
-[00:17:40] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -8.329534432399754,0.0,-10.512773991431345
-[00:17:40] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -8.53249508321261,0.0,-10.85803675480804
-[00:17:40] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -8.73122176337165,0.0,-11.205714499234887
-[00:17:40] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -8.916844303015552,0.0,-11.560225076385905
-[00:17:40] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -9.086068280779585,0.0,-11.922497857766416
-[00:17:40] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -9.239227879619705,0.0,-12.291700367449948
-[00:17:40] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -9.376869193025385,0.0,-12.666930543314834
-[00:17:40] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -9.50340653692436,0.0,-13.046239613255011
-[00:17:40] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -9.618846269358556,0.0,-13.429178347600441
-[00:17:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2251ms or 45 ticks behind
-[00:18:30] [Server thread/INFO]: Lamamadelmatidx lost connection: Disconnected
-[00:18:30] [Server thread/INFO]: Lamamadelmatidx left the game
-[00:18:37] [Server thread/INFO]: Lamamadelmatidx[/127.223.25.77:44129] logged in with entity id 20459 at (942.1383480359635, 50.0, 4.679086283147472)
-[00:18:37] [Server thread/INFO]: Lamamadelmatidx joined the game
-[00:19:41] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 5.833447855369158,-4.923167998504638,6.8772473906723235
-[00:20:02] [Server thread/INFO]: Lamamadelmatidx drowned
-[00:22:20] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -6.9392159710670285,6.0,4.334810731136031
-[00:22:20] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -7.204002546516847,7.0,4.588653466342748
-[00:22:20] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -7.5229185461113275,7.0,4.781563418894393
-[00:22:20] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -7.878418437188429,8.0,4.840866569431
-[00:22:23] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 20.816458981831715,-8.0,-3.33926616308986
-[00:22:23] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 20.816458981831715,-8.0,-3.33926616308986
-[00:22:23] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 20.816458981831715,-8.0,-3.33926616308986
-[00:22:23] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 20.816458981831715,-8.0,-3.33926616308986
-[00:22:23] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 20.42486519666346,-8.0,-3.2679000844357233
-[00:22:23] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 20.425258574287454,-9.0,-3.2492477000319013
-[00:22:23] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 20.033978603606386,-8.0,-3.167430311657313
-[00:22:23] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 19.643007433520438,-8.0,-3.082541345327286
-[00:22:23] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 19.252308518202028,-7.0,-2.9955388749893928
-[00:22:23] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 18.86243146118204,-7.0,-2.9045570187405474
-[00:22:23] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 18.47434663553628,-6.0,-2.80626414471476
-[00:22:23] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 18.09600453623284,-6.0,-2.6792595612643026
-[00:22:23] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 17.724059207201037,-6.0,-2.5342337292764796
-[00:23:35] [Server thread/INFO]: ignacioamajanny has made the advancement [Best Friends Forever]
-[00:28:30] [Server thread/INFO]: Lamamadelmatidx drowned
-[00:29:33] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -9.392926996229107,0.0,3.4380506192519533
-[00:29:33] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -9.744796102654618,0.0,3.25798018067826
-[00:29:33] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -10.067460405063457,0.0,3.2442122233267128
-[00:29:33] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -10.358414974138896,0.0,3.2442122233267128
-[00:29:33] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -10.615907677671657,0.0,3.2442122233267128
-[00:29:33] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -10.841665562594244,0.0,3.2442122233267128
-[00:29:33] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -11.042171679684316,0.0,3.075935236935038
-[00:29:33] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -11.229166079273455,0.0,2.8176165902063985
-[00:29:33] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -11.408930628222151,0.0,2.5111184462684832
-[00:29:33] [Server thread/WARN]: Lamamadelmatidx moved too quickly! 5.492590300742961,3.121296840539202,7.90615743989725
-[00:29:33] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -11.58482662824099,0.0,2.2442122233267128
-[00:29:33] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -11.758652644857875,0.0,2.2442122233267128
-[00:29:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2125ms or 42 ticks behind
-[00:29:33] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved wrongly! 2.952510369477068
-[00:29:33] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved wrongly! 2.952510369477068
-[00:29:33] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved wrongly! 2.952510369477068
-[00:29:33] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved wrongly! 2.952510369477068
-[00:29:33] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved wrongly! 2.952510369477068
-[00:29:33] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved wrongly! 2.952510369477068
-[00:29:33] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved wrongly! 2.952510369477068
-[00:29:33] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved wrongly! 2.952510369477068
-[00:29:33] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved wrongly! 2.952510369477068
-[00:29:33] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved wrongly! 2.952510369477068
-[00:29:33] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved wrongly! 2.952510369477068
-[00:29:33] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved wrongly! 2.800823398210696
-[00:29:34] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved wrongly! 2.7147857660361296
-[00:29:34] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved wrongly! 2.7069984624656627
-[00:29:34] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved wrongly! 2.748195747282125
-[00:29:34] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved wrongly! 2.7370388025060493
-[00:31:06] [Server thread/INFO]: Lamamadelmatidx lost connection: Disconnected
-[00:31:06] [Server thread/INFO]: Lamamadelmatidx left the game
-[00:31:48] [Server thread/INFO]: Lamamadelmatidx[/127.223.25.77:46727] logged in with entity id 31437 at (349.7532923465513, 77.49520087700593, 140.2600966765188)
-[00:31:48] [Server thread/INFO]: Lamamadelmatidx joined the game
-[00:32:05] [Server thread/INFO]: Lamamadelmatidx lost connection: Disconnected
-[00:32:05] [Server thread/INFO]: Lamamadelmatidx left the game
-[00:32:29] [Server thread/INFO]: Lamamadelmatidx[/127.223.25.77:37153] logged in with entity id 31943 at (432.9759434975125, 82.02442408821369, 169.90616937475318)
-[00:32:29] [Server thread/INFO]: Lamamadelmatidx joined the game
-[00:33:02] [Server thread/INFO]: ignacioamajanny has made the advancement [The Parrots and the Bats]
-[00:39:45] [Server thread/INFO]: Lamamadelmatidx fell from a high place
-[00:47:14] [Server thread/INFO]: Lamamadelmatidx fell from a high place
-[01:14:29] [Server thread/INFO]: Lamamadelmatidx was shot by Skeleton
-[01:27:27] [Server thread/INFO]: Lamamadelmatidx was slain by Zombie
-[01:27:36] [Server thread/INFO]: Lamamadelmatidx lost connection: Disconnected
-[01:27:36] [Server thread/INFO]: Lamamadelmatidx left the game
-[02:04:19] [Server thread/INFO]: deiv1d_Xx has made the advancement [Fishy Business]
-[02:06:45] [Server thread/INFO]: ignacioamajanny lost connection: Disconnected
-[02:06:45] [Server thread/INFO]: ignacioamajanny left the game
-[02:06:50] [Server thread/INFO]: ignacioamajanny[/127.55.253.218:54925] logged in with entity id 56486 at (-1866.4870432676937, 67.5, -966.1470203279849)
-[02:06:50] [Server thread/INFO]: ignacioamajanny joined the game
-[02:11:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -10.0,0.0,-0.13523124411779008
-[02:11:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -10.0,0.0,-0.1126218173263851
-[02:11:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -10.0,0.0,-0.04270851745513937
-[02:11:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -10.0,0.0,0.05251614176370367
-[02:11:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -10.0,0.0,0.16128440471527483
-[02:11:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -10.0,0.0,0.2744467915989617
-[02:11:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -10.0,0.0,0.28677998164869223
-[02:11:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -10.0,0.0,0.24377433101881252
-[02:11:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -10.0,0.0,0.1763342957938221
-[02:11:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -10.0,0.0,0.09581990854098876
-[02:11:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -10.0,0.0,0.008309696192668525
-[02:11:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -10.0,0.0,-0.07723657869371436
-[02:11:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -10.0,0.0,-0.0752378980270123
-[02:11:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -10.0,0.0,-0.027465111277251708
-[02:11:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -10.0,0.0,0.04586994117562426
-[02:11:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -10.0,0.0,0.1381516114192891
-[02:11:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -10.0,0.0,0.21483211127201685
-[02:11:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -10.0,0.0,0.21483211127201685
-[02:11:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -10.0,0.0,0.06321616042305322
-[02:11:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -9.99853617557119,0.0,-0.2041047643043612
-[02:11:27] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-2055, y=69, z=-930} ji{x=-2084, y=68, z=-927}
-[02:11:35] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -9.972971919027714,0.0,1.6186696819132749
-[02:11:35] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -9.972971919027714,0.0,1.7389341049466793
-[02:11:35] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -9.972971919027714,0.0,1.8510579866476746
-[02:11:35] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -9.972971919027714,0.0,1.8572243530576316
-[02:11:35] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -9.972971919027714,0.0,1.8066949656003999
-[02:12:22] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 9.474184722493646,0.0,-3.557166527599975
-[02:12:22] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 9.87272548788087,0.0,-3.5252266306511046
-[02:12:22] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 10.27125544084629,0.0,-3.489654496041794
-[02:12:22] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 10.669779608300814,0.0,-3.452138823479345
-[02:12:22] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 11.068300680043194,0.0,-3.4135832025083346
-[02:12:22] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! 11.466820095331968,0.0,-3.374471125878017
-[02:12:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -36.70585133547684,-1.0,1.4473248756210069
-[02:12:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -36.70585133547684,-1.0,1.4473248756210069
-[02:12:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -36.70585133547684,-1.0,1.4473248756210069
-[02:12:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -36.70585133547684,-1.0,1.4473248756210069
-[02:12:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -36.70585133547684,-1.0,1.4473248756210069
-[02:12:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -36.70585133547684,-1.0,1.4473248756210069
-[02:12:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -36.37192663287806,-1.0,1.2268856290911572
-[02:12:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -36.038968181579094,-1.0768320014953616,1.0046856650005793
-[02:12:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -35.845380552998904,-1.227453458663014,0.8753661627738438
-[02:12:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -35.65649889041697,-1.4489423104376087,0.7490656255395152
-[02:12:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -35.49217545430747,-1.6274895728164367,0.639072601047701
-[02:12:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -35.3471056680396,-1.7723706286073195,0.5418646667362736
-[02:12:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -35.21713074347235,-1.8908573780399465,0.4546802432757886
-[02:12:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -35.098990190654604,-1.9886509909793446,0.37535425243959253
-[02:12:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -34.99012778542692,-2.0,0.30218927287251063
-[02:12:27] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -34.88853944801804,-2.0,0.23385452621255354
-[02:12:28] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -34.7926539798641,-2.0,0.1693066822081164
-[02:12:28] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -34.701239561272814,-2.0,0.107727769929852
-[02:12:28] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -34.61333044559069,-2.0,0.04847650015949512
-[02:12:28] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -34.527998963668324,-2.0,-0.00869320273068297
-[02:12:28] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -34.443972694751665,-2.0,-0.06304561403135267
-[02:12:28] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -34.35947124864879,-2.0,-0.11176322825622265
-[02:12:28] [Server thread/WARN]: Camel (vehicle of deiv1d_Xx) moved too quickly! -34.27384741001697,-2.0,-0.15292108931021176
-[02:33:45] [Server thread/INFO]: ignacioamajanny has made the advancement [Ice Bucket Challenge]
-[02:38:12] [Server thread/INFO]: ignacioamajanny lost connection: Disconnected
-[02:38:12] [Server thread/INFO]: ignacioamajanny left the game
-[02:38:18] [Server thread/INFO]: ignacioamajanny[/127.55.253.218:38639] logged in with entity id 67117 at (-1031.394427197954, 103.0, -1124.6975904907547)
-[02:38:18] [Server thread/INFO]: ignacioamajanny joined the game
-[02:42:46] [Server thread/INFO]: puedeser31[/127.52.226.97:49833] logged in with entity id 68078 at (215.0107737826679, 65.79673560066871, -374.4438900524326)
-[02:42:46] [Server thread/INFO]: puedeser31 joined the game
-[02:43:08] [Server thread/INFO]: [Not Secure] <deiv1d_Xx> alex
-[02:43:23] [Server thread/INFO]: [Not Secure] <deiv1d_Xx> ola
-[02:43:26] [Server thread/INFO]: [Not Secure] <deiv1d_Xx> oe
-[02:43:26] [Server thread/INFO]: [Not Secure] <puedeser31> oda viejo
-[02:43:29] [Server thread/INFO]: [Not Secure] <puedeser31> q fue
-[02:43:38] [Server thread/INFO]: [Not Secure] <deiv1d_Xx> onde tai
-[02:43:46] [Server thread/INFO]: [Not Secure] <puedeser31> dando like y suscribiendome
-[02:43:56] [Server thread/INFO]: [Not Secure] <deiv1d_Xx> pasa cord
-[02:44:04] [Server thread/INFO]: puedeser31 fell from a high place
-[02:44:10] [Server thread/INFO]: [Not Secure] <puedeser31> no viejo
-[02:44:13] [Server thread/INFO]: [Not Secure] <puedeser31> pq tu eres mi enemigo
-[02:44:34] [Server thread/INFO]: [Not Secure] <deiv1d_Xx> ya noma
-[02:44:40] [Server thread/INFO]: [Not Secure] <ignacioamajanny> ha sido asesinado por un zombie
-[02:44:47] [Server thread/INFO]: [Not Secure] <puedeser31> AAA SE MURIO
-[02:44:48] [Server thread/INFO]: [Not Secure] <puedeser31> QUE WEON
-[02:44:50] [Server thread/INFO]: [Not Secure] <puedeser31> JAKAJAJAJ
-[02:44:51] [Server thread/INFO]: [Not Secure] <puedeser31> MA WEON
-[02:44:57] [Server thread/INFO]: Lamamadelmatidx[/127.223.25.77:45133] logged in with entity id 69353 at (5.5, 63.0, 0.5)
-[02:44:57] [Server thread/INFO]: Lamamadelmatidx joined the game
-[02:45:02] [Server thread/INFO]: [Not Secure] <ignacioamajanny> lo excribi awnao
-[02:45:05] [Server thread/INFO]: [Not Secure] <ignacioamajanny> XDDDDDD
-[02:45:07] [Server thread/INFO]: [Not Secure] <puedeser31> uy
-[02:45:09] [Server thread/INFO]: [Not Secure] <puedeser31> eso no paso
-[02:45:11] [Server thread/INFO]: [Not Secure] <puedeser31> es lost media
-[02:45:18] [Server thread/INFO]: [Not Secure] <ignacioamajanny> Q ERI WEON XDDDDD
-[02:45:22] [Server thread/INFO]: [Not Secure] <puedeser31> hola viejo
-[02:45:24] [Server thread/INFO]: [Not Secure] <puedeser31> porque me dices eso viejo
-[02:46:08] [Server thread/INFO]: [Not Secure] <ignacioamajanny> donde estas alexander
-[02:46:15] [Server thread/INFO]: [Not Secure] <puedeser31> en mi base viejop
-[02:46:24] [Server thread/INFO]: [Not Secure] <Lamamadelmatidx> pasa cords
-[02:46:26] [Server thread/INFO]: [Not Secure] <ignacioamajanny> si no das la cord de la base te ayudamos con el plan
-[02:46:35] [Server thread/INFO]: [Not Secure] <deiv1d_Xx> da una pista po
-[02:46:37] [Server thread/INFO]: [Not Secure] <puedeser31> no ya fue el plan me dio paja
-[02:46:44] [Server thread/INFO]: [Not Secure] <puedeser31> que siga pacifico mjr
-[02:46:46] [Server thread/INFO]: [Not Secure] <ignacioamajanny> por lo menos una pista
-[02:46:58] [Server thread/INFO]: [Not Secure] <puedeser31> es una montaña de nieve
-[02:47:05] [Server thread/INFO]: [Not Secure] <ignacioamajanny> juralo
-[02:47:08] [Server thread/INFO]: [Not Secure] <ignacioamajanny> por tu mama
-[02:47:14] [Server thread/INFO]: [Not Secure] <puedeser31> Si
-[02:47:23] [Server thread/INFO]: [Not Secure] <ignacioamajanny> ya
-[02:47:27] [Server thread/INFO]: [Not Secure] <puedeser31> estas son las cords
-[02:47:45] [Server thread/INFO]: [Not Secure] <puedeser31> blablabla -bleblebleh -blublublu
-[02:47:51] [Server thread/INFO]: [Not Secure] <ignacioamajanny> te voy a matar
-[02:48:34] [Server thread/INFO]: [Not Secure] <ignacioamajanny> alexnader
-[02:48:37] [Server thread/INFO]: [Not Secure] <ignacioamajanny> no uses xray
-[02:48:48] [Server thread/INFO]: [Not Secure] <puedeser31> nunca mas me suscribire y le dare like
-[02:49:05] [Server thread/INFO]: [Not Secure] <puedeser31> martin pero entonces para que me pasaste ese xray ayer
-[02:49:10] [Server thread/INFO]: [Not Secure] <ignacioamajanny> ?
-[02:49:37] [Server thread/INFO]: [Not Secure] <puedeser31> aaa
-[02:49:41] [Server thread/INFO]: [Not Secure] <puedeser31> ok
-[02:52:04] [Server thread/INFO]: puedeser31 lost connection: Disconnected
-[02:52:04] [Server thread/INFO]: puedeser31 left the game
-[02:53:58] [Server thread/INFO]: puedeser31[/127.52.226.97:57891] logged in with entity id 75137 at (194.30000001192093, 39.0, -506.69999998807907)
-[02:53:58] [Server thread/INFO]: puedeser31 joined the game
-[03:00:12] [Server thread/INFO]: [Not Secure] <ignacioamajanny> pasa cords alexa
-[03:01:42] [Server thread/INFO]: [Not Secure] <puedeser31> blablabla -blebleble -blublublu
-[03:03:48] [Server thread/INFO]: [Not Secure] <puedeser31> david
-[03:03:54] [Server thread/INFO]: [Not Secure] <puedeser31> en que capa se consiguen diamantes en esta version
-[03:03:56] [Server thread/INFO]: [Not Secure] <deiv1d_Xx> q paso
-[03:04:13] [Server thread/INFO]: [Not Secure] <deiv1d_Xx> tu cord x y te digo
-[03:04:23] [Server thread/INFO]: [Not Secure] <puedeser31> blablabla -blebleble -blublublu
-[03:04:31] [Server thread/INFO]: [Not Secure] <deiv1d_Xx> la x
-[03:04:43] [Server thread/INFO]: [Not Secure] <puedeser31> -4444
-[03:04:46] [Server thread/INFO]: [Not Secure] <deiv1d_Xx> o elbioma
-[03:04:53] [Server thread/INFO]: [Not Secure] <puedeser31> cabasho
-[03:05:23] [Server thread/INFO]: [Not Secure] <deiv1d_Xx> q bioma
-[03:05:27] [Server thread/INFO]: [Not Secure] <puedeser31> cabasho
-[03:11:03] [Server thread/INFO]: Villager coj['Leatherworker'/75161, l='ServerLevel[world]', x=180.79, y=71.00, z=-526.54] died, message: 'Leatherworker was slain by Zombie'
-[03:12:56] [Server thread/INFO]: [Not Secure] <puedeser31> david
-[03:12:57] [Server thread/INFO]: [Not Secure] <puedeser31> capa
-[03:12:59] [Server thread/INFO]: [Not Secure] <puedeser31> pero en fa
-[03:13:10] [Server thread/INFO]: [Not Secure] <deiv1d_Xx> cord x pero en sol
-[03:13:21] [Server thread/INFO]: [Not Secure] <puedeser31> blablabla -blebleble -blublublu
-[03:13:28] [Server thread/INFO]: [Not Secure] <puedeser31> idioma cabasho
-[03:13:31] [Server thread/INFO]: [Not Secure] <puedeser31> ahora la capa
-[03:13:40] [Server thread/INFO]: [Not Secure] <deiv1d_Xx> cord x o nada
-[03:13:52] [Server thread/INFO]: [Not Secure] <puedeser31> blablabla -blebleble -blublublu
-[03:13:58] [Server thread/INFO]: [Not Secure] <puedeser31> bioma cabasho
-[03:14:32] [Server thread/INFO]: [Not Secure] <Lamamadelmatidx> Aalex es en la capa -666
-[03:14:40] [Server thread/INFO]: [Not Secure] <puedeser31> voy
-[03:14:43] [Server thread/INFO]: [Not Secure] <Lamamadelmatidx> good
-[03:14:46] [Server thread/INFO]: [Not Secure] <Lamamadelmatidx> little
-[03:14:47] [Server thread/INFO]: [Not Secure] <Lamamadelmatidx> boy
-[03:22:45] [Server thread/INFO]: deiv1d_Xx lost connection: Disconnected
-[03:22:45] [Server thread/INFO]: deiv1d_Xx left the game
-[03:24:46] [Server thread/INFO]: deiv1d_Xx[/127.69.73.170:58081] logged in with entity id 99570 at (-1011.656901375974, -45.0, -1286.376500011921)
-[03:24:46] [Server thread/INFO]: deiv1d_Xx joined the game
-[03:24:49] [Server thread/INFO]: deiv1d_Xx lost connection: Disconnected
-[03:24:49] [Server thread/INFO]: deiv1d_Xx left the game
-[03:24:50] [Server thread/INFO]: [Not Secure] <puedeser31> no david
-[03:24:56] [Server thread/INFO]: [Not Secure] <puedeser31> no tienes permiso para unirte
-[03:29:36] [Server thread/INFO]: Lamamadelmatidx lost connection: Disconnected
-[03:29:36] [Server thread/INFO]: Lamamadelmatidx left the game
-[03:31:01] [Server thread/INFO]: Lamamadelmatidx[/127.223.25.77:59961] logged in with entity id 102884 at (-137.1605530142517, 66.0, 1208.4356061340518)
-[03:31:01] [Server thread/INFO]: Lamamadelmatidx joined the game
-[03:40:19] [Server thread/INFO]: deiv1d_Xx[/127.69.73.170:44467] logged in with entity id 106539 at (-1010.6682042431811, -45.0, -1286.376500011921)
-[03:40:19] [Server thread/INFO]: deiv1d_Xx joined the game
-[03:40:21] [Server thread/INFO]: deiv1d_Xx lost connection: Disconnected
-[03:40:21] [Server thread/INFO]: deiv1d_Xx left the game
-[03:40:25] [Server thread/INFO]: Lamamadelmatidx has made the advancement [Ol' Betsy]
-[03:41:29] [Server thread/INFO]: Lamamadelmatidx was shot by Pillager
-[03:42:07] [Server thread/INFO]: deiv1d_Xx[/127.69.73.170:60211] logged in with entity id 107521 at (-1011.2682042431812, -45.0, -1286.376500011921)
-[03:42:07] [Server thread/INFO]: deiv1d_Xx joined the game
-[03:42:08] [Server thread/INFO]: deiv1d_Xx lost connection: Disconnected
-[03:42:08] [Server thread/INFO]: deiv1d_Xx left the game
-[03:44:50] [Server thread/INFO]: deiv1d_Xx[/127.69.73.170:35195] logged in with entity id 109029 at (-1011.2682042431812, -45.0, -1286.376500011921)
-[03:44:50] [Server thread/INFO]: deiv1d_Xx joined the game
-[03:44:51] [Server thread/INFO]: deiv1d_Xx burned to death
-[03:46:45] [Server thread/INFO]: ignacioamajanny lost connection: Disconnected
-[03:46:45] [Server thread/INFO]: ignacioamajanny left the game
-[03:47:33] [Server thread/INFO]: puedeser31 lost connection: Timed out
-[03:47:33] [Server thread/INFO]: puedeser31 left the game
-[03:47:33] [Server thread/WARN]: handleDisconnection() called twice
-[03:49:04] [Server thread/INFO]: deiv1d_Xx lost connection: Disconnected
-[03:49:04] [Server thread/INFO]: deiv1d_Xx left the game
-[03:49:08] [Server thread/INFO]: deiv1d_Xx[/127.69.73.170:56977] logged in with entity id 113781 at (-642.1822718029887, 88.0, -584.7886333734825)
-[03:49:08] [Server thread/INFO]: deiv1d_Xx joined the game
-[03:50:51] [Server thread/INFO]: ignacioamajanny[/127.55.253.218:51549] logged in with entity id 115082 at (-1012.690259999412, -50.0, -1275.8772347525412)
-[03:50:51] [Server thread/INFO]: ignacioamajanny joined the game
-[03:52:47] [Server thread/WARN]: Lamamadelmatidx moved too quickly! 10.137598230754833,0.03363195835876809,-0.7675042350215335
-[03:52:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2826ms or 56 ticks behind
-[04:08:15] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! 10.371707435991311,-2.6879085623932042E-8,-0.7650631683904976
-[04:08:15] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! 10.770622735316579,-2.713191804559756E-8,-0.7944889311884253
-[04:08:15] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! 11.169538110708459,-2.721863268106972E-8,-0.8239146995974806
-[04:08:15] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! 11.568453554560278,-2.717364111504139E-8,-0.8533404730565053
-[04:08:15] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! 11.96736906002593,-2.7033564720113645E-8,-0.882766251060275
-[04:08:15] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! 12.366284620944157,-2.6833667732262256E-8,-0.912192033154497
-[04:08:15] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! 12.765200231769654,-2.6605306402416318E-8,-0.9416178189298989
-[04:08:15] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! 13.164115887511684,-2.6374330275302782E-8,-0.97104360801859
-[04:08:15] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! 13.563031583678594,-2.6160350330428628E-8,-1.0004694000895142
-[04:08:15] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! 13.961947316227906,-2.5976667927807284E-8,-1.0298951948439026
-[04:08:15] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! 14.360863081521416,-2.5830786398728378E-8,-1.0593209920139088
-[04:08:15] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! 14.759778876284713,-2.57252210644765E-8,-1.0887467913576074
-[04:08:15] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! 15.158694697570695,-2.5658557945007487E-8,-1.1181725926576291
-[04:08:15] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! 15.557610542727161,-2.5626540889334137E-8,-1.1475983957184326
-[04:08:15] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! 15.956526409367143,-2.5623137389629846E-8,-1.1770242003640305
-[04:08:15] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! 16.355442295342186,-2.5641469392212457E-8,-1.2064500064357162
-[04:08:15] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! 16.75435819871882,-2.567460199998095E-8,-1.2358758137911536
-[04:08:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
-[04:11:25] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! 7.634834873525961,0.0,6.704446851915691
-[04:11:25] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! 7.917022776067142,0.0,6.982059919150288
-[04:11:25] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! 8.195923332932125,0.0,7.263191419485338
-[04:11:25] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! 8.471627651812014,0.0,7.5476774429721445
-[04:11:25] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! 8.744240588007642,0.0,7.835349899607536
-[04:11:25] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! 9.013876707949066,0.0,8.12603974993408
-[04:11:25] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! 9.280656574405384,0.0,8.419579800819974
-[04:11:25] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! 9.544706381544302,0.0,8.715804822576501
-[04:11:25] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! 9.806157605996304,0.0,9.014551617107827
-[04:11:25] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! 10.06514047902806,0.0,9.315663609201692
-[04:11:25] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! 10.32178422097536,0.0,9.618990325800496
-[04:11:25] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! 10.576217246643637,0.0,9.924386919897188
-[04:11:25] [Server thread/WARN]: Oak Boat (vehicle of Lamamadelmatidx) moved too quickly! 10.828564220925955,0.0,10.231715966038337
-[04:32:01] [Server thread/INFO]: Lamamadelmatidx has made the advancement [Voluntary Exile]
-[04:37:38] [Server thread/INFO]: ignacioamajanny lost connection: Disconnected
-[04:37:38] [Server thread/INFO]: ignacioamajanny left the game
-[04:41:25] [Server thread/INFO]: Lamamadelmatidx lost connection: Disconnected
-[04:41:25] [Server thread/INFO]: Lamamadelmatidx left the game
-[04:58:07] [Server thread/INFO]: deiv1d_Xx lost connection: Disconnected
-[04:58:07] [Server thread/INFO]: deiv1d_Xx left the game
-[04:59:07] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:47:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:47:10] [ServerMain/INFO]: Loaded 1370 recipes
+[18:47:10] [ServerMain/INFO]: Loaded 1481 advancements
+[18:47:10] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[18:47:10] [Server thread/INFO]: Loading properties
+[18:47:10] [Server thread/INFO]: Default game type: SURVIVAL
+[18:47:10] [Server thread/INFO]: Generating keypair
+[18:47:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:47:11] [Server thread/INFO]: Using epoll channel type
+[18:47:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:47:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:47:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:47:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:47:12] [Server thread/INFO]: Preparing level "world"
+[18:47:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:47:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:47:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:47:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:47:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:47:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:47:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:47:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:47:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:47:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:47:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:47:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:47:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:47:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:47:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:47:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:47:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:47:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:47:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:47:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:47:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:47:22] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[18:47:23] [Worker-Main-1/INFO]: Preparing spawn area: 44%
+[18:47:23] [Server thread/INFO]: Time elapsed: 10845 ms
+[18:47:23] [Server thread/INFO]: Done (11.514s)! For help, type "help"
+[18:47:51] [Server thread/INFO]: CrisZSX[/127.150.178.58:52479] logged in with entity id 4 at (152.23750001192093, 71.0, -531.4155255650866)
+[18:47:51] [Server thread/INFO]: CrisZSX joined the game
+[18:48:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[18:52:04] [Server thread/INFO]: CrisZSX lost connection: Disconnected
+[18:52:04] [Server thread/INFO]: CrisZSX left the game
+[18:53:04] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:54:42] [Server thread/INFO]: CrisZSX[/127.150.178.58:47689] logged in with entity id 867 at (153.35267071750062, 4.0, -591.8232326730714)
+[18:54:42] [Server thread/INFO]: CrisZSX joined the game
