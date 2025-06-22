@@ -173,11 +173,13 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "mutton": "2025-06-22 03:49:14 +0000",
       "apple": "2025-06-21 22:11:00 +0000",
       "bread": "2025-06-21 02:50:11 +0000",
       "rotten_flesh": "2025-06-21 04:40:34 +0000",
       "glow_berries": "2025-06-21 04:13:39 +0000",
-      "cooked_beef": "2025-06-21 22:56:52 +0000"
+      "cooked_beef": "2025-06-21 22:56:52 +0000",
+      "beef": "2025-06-22 03:51:01 +0000"
     },
     "done": false
   },
@@ -2328,6 +2330,42 @@
   "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-06-22 03:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-06-22 03:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-06-22 03:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-06-22 03:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-06-22 03:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-06-22 03:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-06-22 03:47:08 +0000"
     },
     "done": true
   },

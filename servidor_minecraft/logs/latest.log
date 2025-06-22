@@ -311,3 +311,33 @@
 [03:24:49] [Server thread/INFO]: deiv1d_Xx left the game
 [03:24:50] [Server thread/INFO]: [Not Secure] <puedeser31> no david
 [03:24:56] [Server thread/INFO]: [Not Secure] <puedeser31> no tienes permiso para unirte
+[03:29:36] [Server thread/INFO]: Lamamadelmatidx lost connection: Disconnected
+[03:29:36] [Server thread/INFO]: Lamamadelmatidx left the game
+[03:31:01] [Server thread/INFO]: Lamamadelmatidx[/127.223.25.77:59961] logged in with entity id 102884 at (-137.1605530142517, 66.0, 1208.4356061340518)
+[03:31:01] [Server thread/INFO]: Lamamadelmatidx joined the game
+[03:40:19] [Server thread/INFO]: deiv1d_Xx[/127.69.73.170:44467] logged in with entity id 106539 at (-1010.6682042431811, -45.0, -1286.376500011921)
+[03:40:19] [Server thread/INFO]: deiv1d_Xx joined the game
+[03:40:21] [Server thread/INFO]: deiv1d_Xx lost connection: Disconnected
+[03:40:21] [Server thread/INFO]: deiv1d_Xx left the game
+[03:40:25] [Server thread/INFO]: Lamamadelmatidx has made the advancement [Ol' Betsy]
+[03:41:29] [Server thread/INFO]: Lamamadelmatidx was shot by Pillager
+[03:42:07] [Server thread/INFO]: deiv1d_Xx[/127.69.73.170:60211] logged in with entity id 107521 at (-1011.2682042431812, -45.0, -1286.376500011921)
+[03:42:07] [Server thread/INFO]: deiv1d_Xx joined the game
+[03:42:08] [Server thread/INFO]: deiv1d_Xx lost connection: Disconnected
+[03:42:08] [Server thread/INFO]: deiv1d_Xx left the game
+[03:44:50] [Server thread/INFO]: deiv1d_Xx[/127.69.73.170:35195] logged in with entity id 109029 at (-1011.2682042431812, -45.0, -1286.376500011921)
+[03:44:50] [Server thread/INFO]: deiv1d_Xx joined the game
+[03:44:51] [Server thread/INFO]: deiv1d_Xx burned to death
+[03:46:45] [Server thread/INFO]: ignacioamajanny lost connection: Disconnected
+[03:46:45] [Server thread/INFO]: ignacioamajanny left the game
+[03:47:33] [Server thread/INFO]: puedeser31 lost connection: Timed out
+[03:47:33] [Server thread/INFO]: puedeser31 left the game
+[03:47:33] [Server thread/WARN]: handleDisconnection() called twice
+[03:49:04] [Server thread/INFO]: deiv1d_Xx lost connection: Disconnected
+[03:49:04] [Server thread/INFO]: deiv1d_Xx left the game
+[03:49:08] [Server thread/INFO]: deiv1d_Xx[/127.69.73.170:56977] logged in with entity id 113781 at (-642.1822718029887, 88.0, -584.7886333734825)
+[03:49:08] [Server thread/INFO]: deiv1d_Xx joined the game
+[03:50:51] [Server thread/INFO]: ignacioamajanny[/127.55.253.218:51549] logged in with entity id 115082 at (-1012.690259999412, -50.0, -1275.8772347525412)
+[03:50:51] [Server thread/INFO]: ignacioamajanny joined the game
+[03:52:47] [Server thread/WARN]: Lamamadelmatidx moved too quickly! 10.137598230754833,0.03363195835876809,-0.7675042350215335
+[03:52:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2826ms or 56 ticks behind
