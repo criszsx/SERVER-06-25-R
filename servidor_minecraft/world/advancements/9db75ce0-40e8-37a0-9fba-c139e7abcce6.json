@@ -840,6 +840,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-21 03:29:41 +0000",
+      "minecraft:spider": "2025-06-22 19:09:20 +0000",
       "minecraft:zombie": "2025-06-21 04:31:50 +0000"
     },
     "done": false
@@ -1939,6 +1940,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-21 05:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-22 19:07:08 +0000"
     },
     "done": true
   },
