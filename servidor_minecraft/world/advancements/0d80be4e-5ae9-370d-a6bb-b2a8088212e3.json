@@ -1906,5 +1906,17 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2025-06-22 00:33:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-06-22 00:33:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }
